@@ -1,5 +1,5 @@
 {
-  "name": "Dmitry331/elsbroker_core",
+  "name": "dmitry331/elsbroker_core",
   "description": "elsbroker_core",
   "autoload": {
     "classmap": ["src/"]
