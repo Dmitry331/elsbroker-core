@@ -1,0 +1,11 @@
+{
+  "name": "Dmitry331/elsbroker_core",
+  "description": "elsbroker_core",
+  "autoload": {
+    "psr-4": {
+      "Dmitry331\\elsbroker_core\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
