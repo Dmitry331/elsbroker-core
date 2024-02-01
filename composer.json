@@ -1,7 +1,12 @@
 {
   "name": "dmitry331/elsbroker-core",
   "description": "elsbroker-core",
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
   "autoload": {
-    "classmap": ["src/"]
+    "psr-4": {
+      "core\\": "src"
+    }
   }
 }
