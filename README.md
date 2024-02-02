@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist dmitry331/elsbroker-core "*"
+composer require dmitry331/elsbroker_core:dev-main
 ```
 
 or add
@@ -41,5 +41,3 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \core\AutoloadExample::widget(); ?>```
-
-jhk
