@@ -23,7 +23,7 @@ use yii\db\ActiveRecord;
  * @property MlmUser $mlmUser
  * @property MlmRegistrationSources $registrationSources
  */
-class RegistrationSettings extends ActiveRecord
+class RegistrationSettings2 extends ActiveRecord
 {
     /**
      * {@inheritdoc}
